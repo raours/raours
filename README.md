@@ -42,7 +42,7 @@
 
   
   ## 🤔 Github Stats
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yoonkyung Ra)](https://github.com/anuraghazra/github-readme-stats)
+  ![Yoonkyung Ra's GitHub stats](https://github-readme-stats.vercel.app/api?username=raours&show_icons=true&theme=gruvbox_light)
   <br/>
   
   
