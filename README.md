@@ -44,7 +44,8 @@
   ## 🤔 Github Stats
   ![Yoonkyung Ra's GitHub stats](https://github-readme-stats.vercel.app/api?username=raours&show_icons=true&theme=gruvbox_light)
   <br/>
-  
+  [![Solved.ac
+프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=start2022)](https://solved.ac/start2022)
   
 </div>
 
