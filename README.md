@@ -13,7 +13,6 @@
   #### :star: I'm based in Seoul, South Korea and majored in Computer science. <br/>
  
   <br/>
-  <br/>
   
   ## 🧱 Tech Stack
   <!--Java-->
@@ -29,6 +28,7 @@
   <!--React-->
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
 
+<br/>
  ## :computer: Project
  **ITA (It’s Time)**  
   Backend Developer (Sep 2024 – Mar 2025)   
@@ -40,7 +40,7 @@
   Software Developer Intern (Jun 2023 – Jul 2023)  
   
 
-  
+  <br/>
   ## 📊 GitHub & Algorithm Stats
 
   <div style="display: flex; justify-content: center; gap: 20px;">
