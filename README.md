@@ -29,6 +29,7 @@
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
 
   <br/>
+  <br/>
 
 
  ## :computer: Project
@@ -40,9 +41,11 @@
 
   **Alpaca Networks Company**  
   Software Developer Intern (Jun 2023 – Jul 2023)  
-  
 
   <br/>
+  <br/>
+
+  
   ## 📊 GitHub & Algorithm Stats
 
   <div style="display: flex; justify-content: center; gap: 20px;">
