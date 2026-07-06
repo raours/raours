@@ -49,7 +49,6 @@
   ## 📊 GitHub & Algorithm Stats
 
   <div style="display: flex; justify-content: center; gap: 20px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=raours&show_icons=true&theme=gruvbox_light" alt="GitHub Stats" />
     <a href="https://solved.ac/start2022/">
       <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=start2022" alt="Solved.ac Profile"/>
     </a>
