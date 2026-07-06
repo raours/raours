@@ -46,7 +46,7 @@
   <br/>
 
   
-  ## 📊 GitHub & Algorithm Stats
+  ## 📊 Algorithm Level
 
   <div style="display: flex; justify-content: center; gap: 20px;">
     <a href="https://solved.ac/start2022/">
